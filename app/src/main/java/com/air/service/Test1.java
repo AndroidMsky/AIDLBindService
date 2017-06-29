@@ -6,4 +6,5 @@ package com.air.service;
 
 public class Test1 {
     A a;
+    int aaaa;
 }
